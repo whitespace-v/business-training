@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/whitespace-v/business-training/static/css/main.073c9b0a.css",
+    "main.js": "/whitespace-v/business-training/static/js/main.b93d06ab.js",
+    "static/js/787.da102c54.chunk.js": "/whitespace-v/business-training/static/js/787.da102c54.chunk.js",
+    "index.html": "/whitespace-v/business-training/index.html",
+    "main.073c9b0a.css.map": "/whitespace-v/business-training/static/css/main.073c9b0a.css.map",
+    "main.b93d06ab.js.map": "/whitespace-v/business-training/static/js/main.b93d06ab.js.map",
+    "787.da102c54.chunk.js.map": "/whitespace-v/business-training/static/js/787.da102c54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b93d06ab.js"
+  ]
+}
